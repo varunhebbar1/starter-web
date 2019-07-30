@@ -1,3 +1,4 @@
 dumb.txt
 .DS_Store.txt
 *log.txt
+*.orig
