@@ -14,3 +14,7 @@ In future, stay tunned!!
 ## Copyright
 
 Copyright notice to be issue!!
+
+## How to constribute
+
+Just follow the flow!
