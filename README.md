@@ -15,6 +15,7 @@ In future, stay tunned!!
 ## Copyright
 
 Copyright notice to be issue!!
+All rights reserved
 
 ## How to constribute
 
